@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-melt-into-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Slow Melt Into Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-melt-into-tonight/) |
+| **Get License** | [Request Licensing for Slow Melt Into Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-melt-into-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I catch that midnight fire in your eyes
+> The kind of spark that takes me by surprise
+> Just pull me close and let the shadows fall
+> Right here with you, I want to lose it all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
