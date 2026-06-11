@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-melt-into-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Slow Melt Into Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-melt-into-tonight/) |
+| **Get License** | [Secure Licensing Rights for Slow Melt Into Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-melt-into-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3036)
 
 ---
 
