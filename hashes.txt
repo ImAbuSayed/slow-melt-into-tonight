@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Melt Into Tonight
+
+This log tracks the cryptographic history and versioning for the song **Slow Melt Into Tonight** (slow-melt-into-tonight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T23:32:48.605819 | `v1` | `35a24b0f173a8112ed07c753ebc219ad023d2266fc1c9c7c9e6fb198e706ec05` | `5445f42b0ff3a3f7e0cbcdb3f92cb4b3982dea38059ccff00dff42fc0ea32616` | `2026-06-11_slow-melt-into-tonight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
